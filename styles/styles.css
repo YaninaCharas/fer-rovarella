@@ -25,6 +25,13 @@
     background-image: linear-gradient(120deg, #274a9b 0%, #f68084 100%);
     border-radius: 20px;
 }
+.w-50{
+    width: 50%;
+    margin:0 auto;
+}
+.navbar-dark {
+    --bs-navbar-color: rgba(66, 65, 65, 0.865);
+}
 
 .max-altura{
     height: 80vh;
