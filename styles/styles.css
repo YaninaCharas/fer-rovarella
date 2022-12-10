@@ -33,6 +33,10 @@
     --bs-navbar-color: rgba(66, 65, 65, 0.865);
 }
 
+h4{
+    padding-top: 0.5rem;
+    text-align: center;
+}
 .max-altura{
     height: 80vh;
     background-repeat: no-repeat;
